@@ -1,4 +1,4 @@
-# moviescriptcleaner
+# gg_moviescriptcleaner
 Script to clean Movie scripts to get character lines
 Provided as is non-commercial use only.
 
