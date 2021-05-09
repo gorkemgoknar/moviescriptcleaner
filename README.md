@@ -25,7 +25,7 @@ Format 1 :    Standart movie scripts
 
          Some other things that are not dialog.
 
-Format 2  :  Non intended scripts
+Format 2  :  scripts with no indentation
 
          CHARNAME : says something
          OTHERCHAR: response
