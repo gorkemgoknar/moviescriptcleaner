@@ -13,21 +13,21 @@ and calculates whitespaces..
 
 Base file formats:
 Format 1 :    Standart movie scripts 
-         TITLE
+                  TITLE
 
-Some long description etc... 
-         CHARNAME
-       (some intent)
-    talks some lines etc
+         Some long description etc... 
+                  CHARNAME
+                (some intent)
+             talks some lines etc
 
-         OTHERCHARNAME
-    responds to chat
+                  OTHERCHARNAME
+             responds to chat
 
-Some other things that are not dialog.
+         Some other things that are not dialog.
 
-Format 2  :  Non intended scripts
+         Format 2  :  Non intended scripts
 
-CHARNAME : says something
-OTHERCHAR: response
+         CHARNAME : says something
+         OTHERCHAR: response
 
-Some other things that are not dialog\n
+         Some other things that are not dialog\n
