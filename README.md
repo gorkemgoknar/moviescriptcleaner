@@ -4,7 +4,7 @@ Provided as is non-commercial use only.
 
 Clean a script file to conversations.
 Note that first 20-30 lines may not be properly good in output
-As it learns from those lines where char scripts really beging
+As it learns from those lines where character lines really begin
 and calculates whitespaces.. 
 
 --inputdir  to specify directory for txt files, else use working directory
