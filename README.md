@@ -2,6 +2,8 @@
 Script to clean Movie scripts to get character lines
 Provided as is non-commercial use only.
 
+Used to clean movie scripts for persona based chatbot with GPT2, demo in https://www.metayazar.com
+
 Clean a script file to conversations.
 Note that first 20-30 lines may not be properly good in output
 As it learns from those lines where character lines really begin
