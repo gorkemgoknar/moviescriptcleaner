@@ -1,6 +1,5 @@
 # gg_moviescriptcleaner
-Script to clean Movie scripts to get character lines
-Provided as is non-commercial use only.
+Script to clean Movie scripts to get character lines.
 
 Used to clean movie scripts for persona based chatbot with GPT2, demo in https://www.metayazar.com
 
