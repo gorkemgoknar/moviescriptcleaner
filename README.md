@@ -1,5 +1,7 @@
 # gg_moviescriptcleaner
-Script to clean Movie scripts to get character lines.
+Script to clean Movie scripts to get character lines (one of the movie script databases in : https://imsdb.com/) .
+This script is used to parse scripts and get conversations for characters to use within chatbot training. 
+Should also work with non-english languages (tested with Turkish screenplays)
 
 Used to clean movie scripts for persona based chatbot with GPT2, demo in https://www.metayazar.com
 
