@@ -11,8 +11,11 @@ As it learns from those lines where character lines really begin
 and calculates whitespaces.. 
 
 --inputdir  to specify directory for txt files, else use working directory
+
 --file   to specify single file only
+
 --debug  for debug output
+
 
 Base file formats:
 Format 1 :    Standart movie scripts 
