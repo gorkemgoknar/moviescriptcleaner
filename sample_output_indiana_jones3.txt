@@ -1,0 +1,1745 @@
+***************
+
+	OFFICER : Dis-mount!
+***************
+
+	FIRST SCOUT : Herman's horsesick!
+
+	SCOUTMASTER : Chaps, don't anybody wander off. Some of the passageways in here can run for miles.
+***************
+
+	HERMAN : I don't think this is such a good idea.
+***************
+
+	HERMAN : What is it?
+***************
+
+	FEDORA : Alfred, did you get anything yet?
+
+	MAN : Nothing. Dig in.
+
+	ROSCOE : Hey, I've got something!
+
+	ROSCOE : I got something, Garth!
+
+	ROSCOE : I got something... I got something right here.
+
+	ROSCOE : (more whoops; then) Oh, look at that! (more whoops) We're rich! We're rich!
+
+	HALFBREED : Shut up. Shut up.
+
+	ROSCOE (O.S.) : Well, we're rich, ain't we?!
+
+	HERMAN : Indy? Indy? What are they doing? Indiana? Indiana?
+
+	INDY : Shhh!
+
+	HALFBREED : Hey, we got to find more stuff to bring back.
+
+	INDY : (hushed; urgent) It's the Cross of Coronado! Cortes gave it to him in 1521.
+
+	INDY : That Cross is an important artifact. It belongs in a museum.
+
+	INDY : Run back and find the others. Tell Mister Havelock that there are men looting in the caves.
+
+	INDY : Have him bring the sheriff.
+
+	INDY : It's only a snake.
+
+	INDY : Did you hear what I said?
+
+	HERMAN : Right. Run back. Mister Havelock. The Sheriff. What, what are you gonna do?
+
+	INDY : I don't know... I'll think of something.
+***************
+
+	FEDORA : Dig with your hands.
+
+	FEDORA (O.S.) : Not with your mouth.
+
+	ROSCOE : He's got our thing!
+
+	HALFBREED : Get 'im!
+***************
+
+	INDY : Mister Havelock! Anybody! Everybody's lost but me!
+
+	FEDORA : There he is!
+
+	MEN : (ad-libs) Let's go! Let's get him! Let's go!
+***************
+
+	INDY : Hyah! Hyah!
+
+	ROSCOE : Hey! Come back here!
+***************
+
+	PANAMA HAT : Come on. Get him!
+***************
+
+	INDY : Oh...
+
+	INDY : Oh... Oh...
+***************
+
+	ROUGH RIDER : Here, let me.
+***************
+
+	INDY : Holy smokes!
+***************
+
+	FEDORA : Come on, kid. There's no way out of this.
+
+	INDY : Ohhh!
+***************
+
+	FEDORA : Toss up the whip.
+***************
+
+	FEDORA : You've got heart, kid. (indicates Cross) But that belongs to me.
+
+	INDY : (takes Cross from his belt) It belongs to Coronado.
+
+	FEDORA : (overlapping) Coronado is dead. And so are all his grandchildren.
+
+	INDY : This should be in a museum.
+
+	ROSCOE : Now give me that!
+***************
+
+	FEDORA : Don't let him get away!
+
+	INDY : Magic?
+
+	FEDORA : Hold it. Make sure he doesn't double back.
+
+	FEDORA : Okay, kid. Out of the box. Now.
+***************
+
+	FEDORA : Damn.
+
+	INDY : Dad!
+
+	INDY : Dad!
+***************
+
+	INDY : Dad!
+
+	HENRY : Out!
+
+	INDY : It's important!
+
+	HENRY : Then wait -- count to twenty.
+
+	INDY : No, Dad. You listen to me --
+
+	HENRY : (now he shouts) Junior!
+
+	INDY : One, two, three, four...
+
+	HENRY : In Greek.
+
+	INDY : (louder, in Greek) One... two... three... four...
+***************
+
+	HENRY : May he who illuminated this... illuminate me...
+***************
+
+	HERMAN : I brought the Sheriff.
+
+	INDY : Just the man I want to see! Now, there were five or six of them.
+
+	SHERIFF : (interrupting) All right, son.
+
+	INDY : (overlapping) ...they came after... me...
+
+	SHERIFF : You still got it?
+
+	INDY : Well, yes, sir. It's right here!
+
+	SHERIFF : I'm glad to see that... because the rightful owner of this Cross won't press charges, if you give it back.
+
+	SHERIFF : He's got witnesses, five or six of them.
+
+	ROSCOE : Yahoo!
+
+	SHERIFF : Good day.
+
+	FEDORA : You lost today, kid, but that doesn't mean you have to like it.
+***************
+
+	PANAMA HAT : Small world, Doctor Jones.
+
+	INDY : Too small for two of us.
+
+	PANAMA HAT : This is the second time I've had to reclaim my property from you --
+
+	INDY : That belongs in a museum --
+
+	PANAMA HAT : So do you. (he moves his eyeline) Throw him over the side.
+***************
+
+	PANAMA HAT : Grab him, he's getting away! Grab him!
+***************
+
+	INDY (V.O.) : Archaeology is...
+
+	INDY : ...the search for fact. Not truth. If it's truth you're interested in, Doctor Tyree's Philosophy class is right down the hall.
+
+	INDY : So forget any ideas you've got about lost cities, exotic travel, and digging up the world. You do not follow maps to buried treasure and "X" never, ever, marks the spot.
+
+	INDY : Seventy percent of all archaeology is done in the library. Research. Reading.
+
+	INDY : We cannot afford to take mythology at face value.
+
+	INDY : Next week: "Egyptology." Starting with the excavation of Naukratis by Blinders Petrie in 1885. I will be in my office if anybody's got any problems for the next hour and a half.
+
+	INDY : Marcus! (slaps his pocket) I did it!
+
+	BRODY : You've got it!
+
+	INDY : You know how long I've been looking for that?!
+
+	BRODY : All your life.
+
+	INDY : All my life!
+
+	BRODY : Well done, Indy. Very well done, indeed. This will find a place of honor in our Spanish collection.
+
+	INDY : We can discuss my honorarium over dinner and champagne tonight.
+
+	INDY : Your treat.
+
+	BRODY : Yes. My treat.
+
+	INDY : Shush! Shush! Shush!
+
+	IRENE : Doctor Jones! I'm so glad you're back! Your mail is on your desk. Here are your phone messages.
+
+	MALE STUDENT : Doctor Jones, you promised... Doctor Jones --
+
+	IRENE : This is your appointment schedule. And these term papers still haven't been graded.
+
+	INDY : (very efficiently) Okay. Irene, put everyone's name on a list, in the order they arrived, and I'll see each and every one of them in turn.
+
+	INDY : (softly; reading) "Venice, Italy."
+***************
+
+	MAN (O.S.) : Doctor Jones!
+
+	MAN : Doctor Jones?
+***************
+
+	DONOVAN : I trust your trip down was comfortable, Doctor Jones. My men didn't alarm you, I hope.
+
+	DONOVAN : My name is Donovan. Walter Donovan.
+
+	INDY : I know who you are Mr. Donovan. Your contributions to the museum over the years have been extremely generous. Some of the pieces in your collection here are very impressive.
+
+	DONOVAN : Well, like yourself, Doctor Jones, I have a passion for antiquities. (beat) Have a look over here. This might interest you.
+
+	INDY : Well, it's sandstone. Christian symbol. Early Latin text. Mid-Twelfth Century, I should think.
+
+	DONOVAN : That was our assessment as well.
+
+	INDY : Where did this come from?
+
+	DONOVAN : My engineers unearthed it in the mountain region north of Ankara while excavating for copper. (beat) Can you translate the inscription?
+
+	INDY : (stumbling through it) "...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell.
+
+	INDY : Across the desert and through the mountain to the Canyon of the Crescent Moon, to the Temple where the cup that --"
+
+	INDY : "Where the cup that holds the blood of Jesus Christ resides forever."
+
+	DONOVAN : (reverently) The Holy Grail, Doctor Jones. The chalice used by Christ during the Last Supper. The cup that caught His blood at the Crucifixion and was entrusted to Joseph of Arimathaea.
+
+	INDY : The Arthur Legend. I've heard this bedtime story before.
+
+	DONOVAN : Eternal life, Doctor Jones! The gift of youth to whoever drinks from the Grail. (beat) Oh, now that's a bedtime story I'd like to wake up to!
+
+	INDY : An old man's dream.
+
+	DONOVAN : Every man's dream. (beat) Including your father's, I believe.
+
+	INDY : Grail lore is his hobby. He's a teacher of Medieval Literature. The one the students hope they don't get.
+
+	MRS. DONOVAN : Walter, you're neglecting our guests.
+
+	DONOVAN : Be along in a moment, dear.
+***************
+
+	DONOVAN : Hard to resist, isn't it? The Holy Grail's final resting place described in detail!
+
+	INDY : What good is it? This Grail Tablet speaks of deserts and mountains and canyons. Pretty vague. Where do you start looking? Maybe if the Tablet were intact, you'd have something to go on. But the entire top portion is missing.
+
+	DONOVAN : Just the same, an attempt to recover the Grail is currently underway.
+
+	DONOVAN : Let me tell you another "bedtime story," Doctor Jones. After the Grail was entrusted to Joseph of Arimathaea, it disappeared and was lost for a thousand years before it was found again by three Knights of the First Crusade. Three brothers, to be exact.
+
+	INDY : I've heard this one as well. Two of these brothers walked out of the desert one hundred and fifty years after having found the Grail and began the long journey back to France. But only one of them made it. And before dying of extreme old age, he supposedly imparted his tale to a -- to a Franciscan friar, I think.
+
+	DONOVAN : Not "supposedly," Doctor Jones.
+
+	DONOVAN : This is the manuscript in which the friar chronicled the Knight's story... it doesn't reveal on location of the Grail, I'm afraid... but the Knight promised that two "markers" that had been left behind would. (indicates the Tablet) This Tablet is one of those "markers." It proves the Knight's story is true. But as you pointed out -- it's incomplete. (beat) Now, the second "marker" is entombed with the Knight's dead brother. Our project leader believes that tomb to be located within the city of Venice, Italy. (beat) As you can now see, Doctor Jones, we're about to complete a great quest that began almost two thousand years ago. We're only one step away.
+
+	INDY : That's usually when the ground falls out from underneath your feet.
+
+	DONOVAN : You could be more right than you know.
+
+	INDY : Yes?
+
+	DONOVAN : We've hit a snag. Our project leader has vanished. Along with all his research. Uh, we received a cable from his colleague, Doctor Schneider, who has no idea of his whereabouts or what's become of him. (beat) I want you to pick up the trail where he left off. Find the man and you will find the Grail.
+
+	INDY : You've got the wrong Jones, Mister Donovan. Why don't you try my father?
+
+	DONOVAN : (after a pause) We already have. Your father is the man who's disappeared.
+***************
+
+	BRODY : Your father and I have been friends since time began. I've watched you grow up, Indy. And I've watched the two of you grow apart. (beat) I've never seen you this concerned about him before.
+
+	INDY : Dad? (to Brody) He's an academic A bookworm. He's not a field man.
+
+	INDY : Dad? Dad?
+
+	BRODY : Dear God.
+
+	BRODY : What has the old fool got himself into now?
+
+	INDY : I don't know. But whatever it is, he's in over his head!
+
+	INDY : Dad?
+
+	BRODY : It's today's mail. And it's been opened.
+
+	INDY : Mail! That's it, Marcus!
+
+	INDY : (as he tears it open) Venice, Italy!
+
+	BRODY : What is it?
+
+	INDY : It's Dad's Grail Diary. Every clue he ever followed. Every discovery he made. A complete record of his search for the Holy Grail. This is his whole life. Why would he have sent this to me?
+
+	BRODY : I don't know. But someone must want it pretty badly.
+
+	INDY : Do you believe, Marcus?
+***************
+
+	INDY : Do you believe the Grail actually exists?
+
+	BRODY : The search for the Cup of Christ is the search for the divine in all of us.
+
+	BRODY : But if you want facts, Indy, I have none to give you. At my age, I'm prepared to take a few things on faith.
+
+	INDY : Call Donovan, Marcus. Tell him I'll take that ticket to Venice now.
+
+	BRODY : I'll tell him we'll take two.
+
+	BRODY : Tell me, what's going to happen when we get to Venice?
+
+	DONOVAN : (overlapping) Don't worry. Doctor Schneider will be there to meet you.
+
+	BRODY : (overlapping) Schneider?
+
+	DONOVAN : (overlapping) I maintain an apartment in Venice, at your disposal.
+
+	BRODY : Oh, well. That's good. Thank you.
+
+	DONOVAN : Doctor Jones. Good luck. Be very careful. Don't trust anybody.
+***************
+
+	INDY : Ah, Venice...
+
+	BRODY : Yes. Uh, how will we recognize this Doctor Schneider when we see him?
+
+	INDY : I don't know. Maybe he'll know us.
+
+	ELSA : Doctor Jones?
+
+	INDY : Yes?
+
+	ELSA : I knew it was you --
+
+	ELSA : You have your father's eyes.
+
+	INDY : And my mother's ears. But the rest belongs to you.
+
+	ELSA : Looks like the best parts have already been spoken for.
+
+	ELSA : Marcus Brody?
+
+	BRODY : That's right.
+
+	ELSA : (introducing herself) Doctor Elsa Schneider.
+
+	BRODY : Uh... how do you do?
+***************
+
+	ELSA : The last time I saw your father we were in the library. He was very close to tracking down the Knight's Tomb. I've never seen him so excited. He was as giddy as a schoolboy.
+
+	INDY : Who? Attila the Professor? He was never giddy, even when he was a schoolboy!
+
+	INDY : Fraulein -- will you permit me?
+
+	ELSA : I usually don't.
+
+	INDY : I usually don't either.
+
+	ELSA : In that case, I permit you.
+
+	INDY : It would make me very happy.
+
+	ELSA : But I'm already sad -- by tomorrow it will have faded.
+
+	INDY : Tomorrow I'll steal you another.
+
+	BRODY : (cutting in) I hate to interrupt you -- but the reason we're here --
+
+	ELSA : (interrupting) Yes. I have something to show you.
+
+	ELSA : I left your father working in the library. He sent me to the map section to fetch an ancient plan of the city. When I got back to his table -- he'd gone -- with all his papers -- except for that scrap which I found near his chair.
+
+	INDY : Roman numerals.
+
+	ELSA : Here is the library.
+
+	INDY : That doesn't look much like a library.
+
+	BRODY : It looks like a converted church.
+***************
+
+	ELSA : In this case it's the literal truth. We're on holy ground. These columns over here...
+
+	ELSA : ...were brought back as spoils of war after the sacking of Byzantium during the Crusades.
+
+	ELSA : Now please excuse me. The library's closing in a few moments. I'll arrange for us to stay a little longer.
+
+	INDY : Marcus -- I've seen this window before.
+
+	BRODY : Where?
+
+	INDY : Right here. In Dad's Diary. You see?
+
+	BRODY : Look, Indy. The Roman numerals!
+
+	INDY : Dad was onto something here!
+
+	BRODY : Well, now we know the source of the numbers, but we still don't know what they mean.
+
+	INDY : (explaining to Brody) My dad sent me this Diary for a reason. Until we find out why, I suggest we keep it to ourselves.
+
+	ELSA : Find something?
+
+	BRODY : (to Elsa) Uh, yes. Three, seven and ten. That window seems to be the source of the Roman numerals.
+
+	ELSA : My God, I must be blind
+
+	INDY : Dad wasn't looking for a book about the Knight's Tomb... he was looking for the Tomb itself
+
+	INDY : Don't you get it? The Tomb is somewhere in the library! You said yourself it used to be a church! Look.
+
+	INDY : Three.
+
+	INDY : Three!
+
+	INDY : Seven.
+
+	INDY : Seven... Ten.
+
+	INDY : And ten. Now where's the ten? Look around for the ten.
+
+	INDY : Three, seven and ten.
+
+	INDY : Ten. (wryly; to himself) "X" marks the spot.
+***************
+
+	INDY : Bingo.
+
+	ELSA : You don't disappoint, Doctor Jones. You're a great deal like your father.
+
+	INDY : Except he's lost, and I'm not.
+
+	ELSA : Lower me down.
+
+	INDY : Look after this for me, will you?
+
+	INDY : Come on.
+
+	ELSA : Pagan symbols. Fourth or Fifth Century.
+
+	INDY : Right. Six hundred years before the Crusades.
+
+	ELSA : The Christians would have dug their own passages and burial chambers centuries later.
+
+	INDY : That's right. If there's a Knight of the First Crusade entombed down here, that's where we'll find him.
+
+	BRODY : Ohhhh...
+***************
+
+	ELSA : What's this one?
+
+	INDY : The Ark of the Covenant.
+
+	ELSA : Are you sure?
+
+	INDY : (deadpan) Pretty sure.
+
+	INDY : Watch out.
+***************
+
+	INDY : Petroleum. I could sink a well down here and retire.
+
+	INDY : Give me the lighter.
+***************
+
+	INDY : Oh, rats...
+
+	INDY : Come on!
+***************
+
+	INDY : Come here.
+
+	INDY : Look...
+***************
+
+	INDY : It must be one of these...
+
+	ELSA : Look at the artistry of these carvings and the scrollwork.
+
+	ELSA : It's this one.
+***************
+
+	INDY : This is it! We found it! Look -- the engraving on the shield. It's the same as on the Grail Tablets. The shield is the second marker!
+
+	ELSA : What's that?
+
+	INDY : It's a rubbing Dad made of the Grail Tablet.
+
+	ELSA : Just like your father -- giddy as a schoolboy.
+
+	ELSA : Wouldn't it be wonderful if he were here now to see this?
+
+	INDY : (chuckles) He never would have made it past the rats! He hates rats! He's scared to death of them!
+***************
+
+	INDY : Get back! Back against the wall.
+
+	INDY : Quick! Under it!
+
+	INDY : Air pocket!
+***************
+
+	INDY : Don't wander off.
+
+	ELSA : What?
+
+	ELSA : What?
+***************
+
+	INDY : I think I've found a way out. Deep breath.
+***************
+
+	INDY : (wryly) Ah, Venice!
+***************
+
+	INDY : (to Elsa) Are you crazy?! You don't go between them!
+
+	ELSA : Go between them? Are you crazy?!
+
+	INDY : I said go around!
+
+	ELSA : You said go between them!
+
+	INDY : I said don't go between them!
+***************
+
+	ELSA : No!!
+
+	INDY : Why are you trying to kill us?
+
+	KAZIM : Because you're looking for the Holy Grail.
+
+	INDY : My father was looking for the Holy Grail. Did you kill him too?
+
+	KAZIM : No.
+
+	INDY : Where is he? Talk -- or you're dead. Damn it, tell me! Tell me!
+
+	KAZIM : If you don't let go, Doctor Jones, we'll both die.
+
+	INDY : Then we'll die.
+
+	KAZIM : My soul is prepared. How's yours?
+
+	INDY : This is your last chance.
+
+	KAZIM : No, Doctor Jones. It's yours!
+
+	INDY : All right! Where's my father
+
+	KAZIM : If you let me go, I will tell you where he is.
+
+	INDY : Who are you?
+
+	KAZIM : My name is Kazim.
+
+	INDY : And why were you trying to kill me?
+
+	KAZIM : The secret of the Grail has been safe for a thousand years. And for all that time the Brotherhood of the Cruciform Sword has been prepared to do anything to keep it safe.
+
+	KAZIM : Let me get off at this jetty.
+
+	KAZIM : Ask yourself, why do you seek the Cup of Christ? Is it for His glory, or for yours?
+
+	INDY : I didn't come for the Cup of Christ. I came to find my father.
+
+	KAZIM : In that case, God be with you in your quest. Your father is being held in the Castle of Brunwald on the Austrian-German border.
+***************
+
+	INDY : How's the head?
+
+	BRODY : It's better, now I've seen this. It's the name of a city. "Alexandretta?" Hmmm...
+
+	INDY : The Knights of the First Crusade laid siege to the city of Alexandretta for over a year. The entire city was destroyed.
+
+	INDY : The present city of Iskenderun is built on its ruins. Marcus -- you remember what the Grail Tablet said. "Across the desert and through the mountain to the Canyon of the Crescent Moon." (pause) But where exactly?
+
+	BRODY : Your father would know. Your father did know. Look. He made a map.
+
+	BRODY : He must have pieced it together from clues scattered through the whole history of the Grail Quest. A map with no names.
+
+	BRODY : Now, he knew there was a city with an oasis due east. Here. He knew the course turned south through the desert to a river, and the river led into the mountains. Here. Straight to the canyon. He knew everything except where to begin, the name of the city.
+
+	INDY : (solemnly) Alexandretta. Now we know.
+
+	BRODY : Yes. Now we know.
+
+	INDY : (rising) Marcus, get hold of Sallah. Tell him to meet you in Iskenderun.
+
+	BRODY : What about you?
+
+	INDY : I'm going after Dad.
+
+	INDY : Elsa?
+
+	INDY : Elsa?
+
+	INDY : Elsa?
+
+	INDY : Elsa?
+***************
+
+	ELSA : My room!
+
+	INDY : Mine, too.
+
+	ELSA : What were they looking for?
+
+	INDY : This.
+
+	ELSA : The Grail Diary.
+
+	INDY : Uh-huh.
+
+	ELSA : You had it? You didn't trust me!
+
+	INDY : I didn't know you.
+
+	INDY : At least I let you tag along.
+
+	ELSA : Oh, yes. Give them a flower and they'll follow you anywhere.
+
+	INDY : Knock it off. You're not mad.
+
+	ELSA : No?
+
+	INDY : No. You like the way I do things.
+
+	ELSA : It's lucky I don't do things the same way. You'd still be standing at the Venice pier.
+
+	INDY : Look, what do you think is going on here? Since I've met you, I've nearly been incinerated, drowned, shot at, and chopped into fish bait. We're caught in the middle of something sinister here. My guess is Dad found out more than he was looking for. And until I'm sure, I'm going to continue to do things the way I think they should be done.
+
+	ELSA : How dare you kiss me!
+
+	INDY : Leave me alone. I don't like fast women.
+
+	ELSA : And I hate arrogant men.
+***************
+
+	INDY : Ahh, Venice.
+***************
+
+	INDY : What do you know about this place?
+
+	ELSA : I know the Brunwalds are famous art collectors.
+
+	ELSA : What are you going to do?
+
+	INDY : Don't know. Think of something.
+***************
+
+	BUTLER : Yes?
+
+	INDY : And not before time! Did you intend to leave us standing on the doorstep all day? We're drenched!
+
+	INDY : Now look! I've gone and caught a sniffle.
+
+	BUTLER : (coldly; with Austrian accent) Are you expected?
+
+	INDY : Don't take that tone with me, my good man. Now buttle off and tell Baron Brunwald that Lord Clarence MacDonald and his lovely assistant are here to view the tapestries.
+
+	BUTLER : Tapestries?
+
+	INDY : Dear me, the man is dense. This is a castle, isn't it? There are tapestries?
+
+	BUTLER : This is a castle. And we have many tapestries. But if you're a Scottish lord, then I am Mickey Mouse.
+
+	INDY : How dare he?!
+***************
+
+	INDY : (to Elsa; softly) Nazis. I hate these guys.
+
+	INDY : This one. I think he's in here.
+
+	ELSA : How do you know?
+
+	INDY : Because it's wired.
+***************
+
+	ELSA : Indy? Indy?
+
+	INDY : Don't worry... this is kid's play. I'll be right back.
+***************
+
+	HENRY : Junior?
+
+	INDY : (a reflex) Yes, sir!
+
+	HENRY : It is you Junior!
+
+	INDY : (an old familiar irritation) Don't call me that, please.
+
+	HENRY : (amazed) But what are you doing here?
+
+	INDY : I came to get you! What do you think?
+
+	HENRY : (sotto, mumbled) Late Fourteenth Century, Ming Dynasty.
+
+	HENRY : Oh, it breaks the heart.
+
+	INDY : (quietly to himself) And the head. (to Henry, aggrievedly) You hit me, Dad!
+
+	HENRY : (referring to the vase) I'll never forgive myself --
+
+	INDY : (surprised, misunderstanding) Don't worry -- I'm fine.
+
+	HENRY : Thank God!
+
+	HENRY : ...it's fake. See, you can tell by the cross section.
+
+	INDY : No! Dad, get your stuff. We've got to get out of here.
+
+	HENRY : Well, I am sorry about your head, though. But I thought you were one of them.
+
+	INDY : Dad, they come in through the doors.
+
+	HENRY : (laughs) Good point.
+
+	HENRY : But better safe than sorry.
+
+	HENRY : Humpf -- so I was wrong this time. But by God, I wasn't wrong when I mailed you my Diary. You obviously got it.
+
+	INDY : I got it and I used it. We found the entrance to the catacombs.
+
+	HENRY : (excited) Through the library?
+
+	INDY : Right.
+
+	HENRY : I knew it. And the tomb of Sir Richard?
+
+	INDY : Found it.
+
+	HENRY : (breathless) He was actually there? You saw him?
+
+	INDY : Well, what was left of him.
+
+	HENRY : (trembling with anticipation) And his shield... the inscription on Sir Richard's shield...?
+
+	INDY : Alexandretta. (beat) It's a great moment in Henry's life. He turns aside, lost to himself for a moment, then turns to Indy with joy.
+
+	HENRY : Alexandretta... of course... on the pilgrim trail from the Eastern Empire. Oh, Junior...
+
+	HENRY : ...you did it.
+
+	INDY : No, Dad. You did. Forty years.
+
+	HENRY : If only I could have been with you.
+
+	INDY : There were rats, Dad.
+
+	HENRY : Rats?
+
+	INDY : Yeah, big ones. What do the Nazis want with you Dad?
+
+	HENRY : They want my diary.
+
+	INDY : (interested) Yeah?
+
+	HENRY : I knew I had to get that book as far away from me as I possibly could.
+
+	INDY : (thoughtfully) Yeah...
+
+	S.S. OFFICER : Doctor Jones!!
+
+	HENRY & INDY : Yes!!
+
+	S.S. OFFICER : I will take the book now.
+
+	INDY & HENRY : (simultaneously) What book?
+
+	S.S. OFFICER : (to Indy) You have the Diary in your pocket.
+
+	HENRY : Do you think that my son would be that stupid that he would bring my Diary all the way back here?
+
+	HENRY : You didn't, did you? (a beat) You didn't bring it, did you?
+
+	INDY : Well, uh...
+
+	HENRY : You did!!
+
+	INDY : Look, can we discuss this later?
+
+	HENRY : I should have mailed it to the Marx Brothers.
+
+	INDY : (overlapping) Will you take it easy!
+
+	HENRY : Take it easy?! Why do you think I sent it home in the first place? (points towards the Nazis) So it wouldn't fall into their hands!!
+
+	INDY : I came here to save you.
+
+	HENRY : Oh yeah? And who's gonna come to save you, Junior??
+
+	INDY : I told you --
+
+	INDY : Don't call me Junior!
+
+	HENRY : Look what you did!!
+
+	HENRY : (aghast) I can't believe what you just...
+
+	INDY : Elsa? Elsa?
+***************
+
+	VOGEL : That's far enough Put down the gun, Doctor Jones. Put down the gun or the Fraulein dies.
+
+	HENRY : But she's one of them!
+
+	ELSA : Indy, please!
+
+	HENRY : She's a Nazi!
+
+	INDY : What?!
+
+	HENRY : Trust me!
+
+	ELSA : Indy, no!
+
+	VOGEL : I will kill her!
+
+	HENRY : Oh yeah? Go ahead!
+
+	INDY : No! Don't Shoot!
+
+	HENRY : (to Indy) Don't worry. He won't.
+
+	ELSA : Indy, please! Do what he says!
+
+	HENRY : And don't listen to her!
+
+	VOGEL : Enough! She dies!
+
+	INDY : Wait! Wait!
+
+	ELSA : I'm sorry.
+
+	INDY : No, don't be.
+
+	ELSA : But you should have listened to your father.
+***************
+
+	INDY : (quietly to Henry) She ransacked her own room and I fell for it. How did you know she was a Nazi?
+
+	HENRY : Umh?
+
+	INDY : How did you she was a Nazi?
+
+	HENRY : She talks in her sleep.
+
+	HENRY : I didn't trust her. Why did you?
+
+	MAN IN CHAIR : Because he didn't take my advice.
+
+	DONOVAN : Didn't I warn you not to trust anybody, Doctor Jones?
+
+	HENRY : I misjudged you Walter -- I knew you'd sell your mother for an Etruscan vase. But I didn't know you'd sell your country and your soul to the slime of humanity.
+
+	DONOVAN : (suddenly erupting) Doctor Schneider. There're pages torn out of this!
+
+	ELSA : This book contained a map -- a map with no names -- precise directions from the unknown city to the secret Canyon of the Crescent Moon.
+
+	INDY : So it did.
+
+	DONOVAN : Where are these missing pages? This maps we must have these pages backs
+
+	ELSA : (to Donovan) You're wasting your breath. He won't tell us. And he doesn't have to... it's perfectly obvious where the pages are... (looking at Indy) ...he's given them to Marcus Brody.
+
+	HENRY : (to Indy) Marcus?! You didn't drag poor Marcus along, did you? He's not up to the challenge.
+
+	DONOVAN : He sticks out like a sore thumb. We'll find him.
+
+	INDY : The hell you will. He's got a two- day head-start on you, which is more than he needs. (beat) Brody's got friends in every town and village from here to the Sudan. He speaks a dozen languages, knows every local custom. He'll blend in. Disappear. You'll never see him again. With any luck, he's got the Grail already.
+
+	BRODY : Does anyone here speak English? Or even ancient Greek?
+
+	BRODY : No water, no thank you. No, fish make love in it.
+
+	BRODY : Thank you so much. No, I don't like that. No, I really don't want... No, no, thank you very much. No, thank you, madam. I'm a vegetarian.
+
+	BRODY : Does anyone understand a word I'm saying here?
+
+	SALLAH : Mister Brody!
+
+	BRODY : Oh, Sallah! What a relief!
+
+	SALLAH : (laughs) Marcus Brody, sir. And where is Indy?
+
+	BRODY : (overlapping) Oh, he's in Austria. A slight detour.
+
+	SALLAH : You are on your own?
+
+	BRODY : Yes, but don't panic. Everything's under control. Have you... have you arranged our supplies?
+
+	SALLAH : Oh, yes, of course. But where are we going?
+
+	BRODY : Oh, this map will show you. It was drawn by, uh...
+
+	SINISTER MAN : Mister Brody?
+
+	SINISTER MAN : Welcome to Iskenderun. The Director of the Museum of Antiquities has sent a car for you.
+
+	BRODY : Oh, what?... your servant, sir.
+
+	SALLAH : And I am his.
+
+	SINISTER MAN : Follow me, please.
+
+	BRODY : My reputation precedes me.
+
+	SALLAH : There is no museum in Iskenderun.
+
+	SECOND MAN : Papers please.
+
+	SALLAH : Papers? (laughs) Of course.
+
+	SALLAH : Run.
+
+	BRODY : Yes.
+
+	SALLAH : Papers, sir. Got it here.
+
+	SALLAH : Just finished reading it myself. (laughs; then, to Brody) Run!
+
+	BRODY : Yes.
+
+	SALLAH : Egyptian Mail. Morning edition. (to Brody) Run!
+
+	BRODY : Did you say...? Uh, uh...
+
+	SALLAH : Run!
+
+	SALLAH : (to Brody; pointing) Okay, okay, quick, quick, quick! Hide in that door! Hide in that door!
+***************
+
+	HENRY : Intolerable.
+
+	VOGEL : Doctor Schneider. Message from Berlin. You must return immediately: a rally at the Institute of Aryan Culture.
+
+	ELSA : So?
+
+	VOGEL : Your presence on the platform is requested... at the highest level.
+
+	ELSA : Thank you, Herr Oberst. (to Donovan) I will meet you at Iskenderun.
+
+	DONOVAN : Take this Diary to the Reich Museum in Berlin. It will show them our progress, ahead of schedule. Without a map, I'm afraid it's no better than a souvenir.
+
+	VOGEL : (to Donovan, meaning Indy and Henry) Let me kill them now.
+
+	ELSA : No. If we fail to recover the pages from Brody, we'll need them alive.
+
+	DONOVAN : (to Vogel, with a helpless shrug) Always do what the doctor orders.
+
+	ELSA : Don't look at me like that -- we both wanted the Grail, I would have done anything to get it. You would have done the same.
+
+	INDY : I'm sorry you think so.
+
+	ELSA : (whispers) I can't forget... how wonderful it was.
+
+	HENRY : Thank you. It was rather wonderful.
+
+	VOGEL : Doctor Schneider! Your car is waiting.
+
+	ELSA : (to Indy, after finishing the kiss) That's how Austrians say goodbye.
+
+	VOGEL : And this is how we say goodbye in Germany, Doctor Jones.
+
+	HENRY : Ohh...
+
+	INDY : (to himself) Ooooh... I like the Austrian way better.
+
+	HENRY : So did I.
+
+	INDY : Let's try and get these ropes loose. We've got to get to Marcus before the Nazis do!
+
+	HENRY : (confused) You said he had two days' start. That he would blend in. Disappear!
+
+	INDY : Are you kidding? -- I made that up! You know Marcus -- he got lost once in his own museum!
+
+	INDY : Can you try and reach into my left jacket pocket?
+
+	HENRY : What am I looking for?
+
+	INDY : My lucky charm.
+
+	HENRY : Feels like a cigarette lighter.
+
+	INDY : Try and burn through the ropes.
+
+	HENRY : Very good.
+
+	HENRY : I ought to tell you something.
+
+	INDY : Don't get sentimental now Dad -- save it 'til we get out of here.
+
+	HENRY : The floor's on fire! See?!
+
+	INDY : (turns and sees) What???
+
+	HENRY : And the chair.
+
+	INDY : All right, move! Move! Rock your Chair. Do what I do.
+***************
+
+	LIEUTENANT : Etwas Wichtiges, mein Herr.
+
+	DONOVAN : Well, we have Marcus Brody. But more important, we have the map.
+
+	RADIO OPERATOR : Aus Berlin, mein Herr.
+
+	DONOVAN : (reading) "By the personal command of the Fuhrer. Secrecy essential to success. Eliminate the American conspirators." (to Vogel) Germany has declared war on the Jones boys. (to DRIVER) Losfahren.
+
+	INDY : Dad!
+
+	HENRY : What?
+
+	INDY : Dad!
+
+	HENRY : What?
+
+	INDY : Dad!
+
+	HENRY : What?
+
+	INDY : Head for the fireplace!
+
+	HENRY : Oh.
+
+	INDY : I think I can get these ropes off.
+
+	INDY : Whoops!
+***************
+
+	HENRY : Our situation has not improved.
+
+	INDY : Listen Dad... I'm almost free.
+***************
+
+	WOMAN : Alarm!
+
+	WOMAN : Schnell!!
+
+	HENRY : This is intolerable!
+
+	INDY : I'm out, Dad!
+
+	HENRY : Well done, boy!
+***************
+
+	INDY : Come on Dad.
+
+	INDY : Dead end.
+
+	INDY : There's got to be a... a secret door around. A passageway or something.
+
+	HENRY : I find that if I just sit down and think...
+
+	INDY : Dad!
+
+	HENRY : ...the solution presents itself.
+***************
+
+	INDY : Great. More boats.
+
+	HENRY : Would you say this has been just another typical day for you? Huh?
+
+	INDY : (ironically) Ooof! No! It's been better than most.
+
+	INDY : Come on, Dad. Come on!
+
+	HENRY : What about the boat? We're not going on the boat?
+***************
+
+	VOGEL : Sie alle ins Boat. Schnell!
+***************
+
+	INDY : Ha!
+***************
+
+	GUARD : Halt! Halt!
+***************
+
+	HENRY : Stop!
+
+	INDY : What?
+
+	HENRY : Stop! Stop!
+
+	HENRY : You're going the wrong Way! We have to get to Berlin!
+
+	INDY : (pointing towards Venedig) Brody's this way.
+
+	HENRY : My Diary's in Berlin.
+
+	INDY : You don't need the Diary, Dad. Marcus has the map.
+
+	HENRY : There is more in the Diary than just the map.
+
+	INDY : All right Dad -- tell me.
+
+	HENRY : Well, he who finds the Grail must face the final challenge.
+
+	INDY : What final challenge?
+
+	HENRY : Three devices of such lethal cunning.
+
+	INDY : Booby traps?
+
+	HENRY : Oh, yes. But I found the clues that will safely take us through, in the Chronicles of St. Anselm.
+
+	INDY : But what are they? Can't you remember?
+
+	HENRY : I wrote them down in my Diary so that I wouldn't have to remember.
+
+	INDY : Half the German Army's on our tail and you want me to go to Berlin? Into the lion's den?
+
+	HENRY : Yes! The only thing that matters is the Grail.
+
+	INDY : What about Marcus?
+
+	HENRY : Marcus would agree with me.
+
+	INDY : Two selfless martyrs. Jesus Christ!
+
+	HENRY : That's for blasphemy. The quest for the Grail is not archaeology. It's a race against evil. If it is captured by the Nazis, the armies of darkness will march all over the face of the earth. Do you understand me?
+
+	INDY : This is an obsession Dad. I never understood it. Never. Neither did Mom.
+
+	HENRY : Oh yes, she did. Only too well. Unfortunately she kept her illness from me until all I could do was mourn her.
+***************
+
+	HENRY : My boy, we are Pilgrims in an unholy land.
+***************
+
+	INDY : Fraulein Doctor. Where is it?
+
+	ELSA : How did you get here?
+
+	INDY : Where is it? I want it.
+
+	ELSA : You came back for the book? Why?
+
+	INDY : My father didn't want it incinerated.
+
+	ELSA : Is that what you think of me? I believe in the Grail, not the Swastika.
+
+	INDY : (vicious) Yet you stood up to be counted with the enemy of everything the Grail stands for -- who gives a damn what you think?
+
+	ELSA : (hard and fast) You do.
+
+	INDY : All I have to do is squeeze.
+
+	ELSA : All I have to do is scream.
+
+	INDY : I've got it. Let's get the hell out of here.
+***************
+
+	HENRY : What did you get?
+
+	INDY : I don't know. The first available flight out of Germany.
+
+	HENRY : Good.
+***************
+
+	INDY : Well, we made it.
+
+	HENRY : When we're airborne, with Germany behind us, then I'll share that sentiment.
+
+	INDY : Relax.
+
+	VOGEL : Nicht zumachen! Wir steigen ein!
+***************
+
+	VOGEL : Haben sie diesen Mann gesehen?
+
+	INDY (O.S.) : Fahrscheine, bitte.
+
+	MALE PASSENGER : Nein.
+
+	INDY : Tickets please.
+
+	INDY : Fahrscheine meine Dame. Bitte.
+
+	VOGEL : Guten Tag, Herr Jones.
+
+	INDY : Fahrscheine mein Herr.
+
+	VOGEL : Weg.
+
+	INDY : Tickets please.
+
+	VOGEL : (in German) Was?
+
+	INDY : (in German; with a shrug) No ticket.
+***************
+
+	VOGEL : Du wirst nochmal horen von mir!
+
+	HENRY : You know, sharing your adventures is an interesting experience.
+
+	INDY : (meaning Elsa) That's not all we shared. It's disgraceful. You're old enough to be her fa... er, her grandfather!
+
+	HENRY : Well, I'm as human as the next man.
+
+	INDY : I was the next man.
+
+	HENRY : (laughs) Ships that pass in the night...
+
+	INDY : Do you remember the last time we had a quiet drink? I had a milk shake.
+
+	HENRY : Hmmm... What did we talk about?
+
+	INDY : We didn't talk. We never talked.
+
+	HENRY : And do I detect a rebuke?
+
+	INDY : A regret. It was just the two of us, Dad. It was a lonely way to grow up. For you, too. If you had been an ordinary, average father like the other guys' dads, you'd have understood that.
+
+	HENRY : Actually, I was a wonderful father.
+
+	INDY : When?
+
+	HENRY : Did I ever tell you to eat up? Go to bed? Wash your ears? Do your homework? No. I respected your privacy and I taught you self-reliance.
+
+	INDY : What you taught me was that I was less important to you than people who had been dead for five hundred years in another country. And I learned it so well that we've hardly spoken for twenty years.
+
+	HENRY : You left just when you were becoming interesting.
+
+	INDY : Dad, how can you?
+
+	HENRY : (interrupting) Very well. I'm here now.
+
+	HENRY : What do you want to talk about? Hmmm?
+
+	INDY : (laughs) Well... I can't think of anything.
+
+	HENRY : Then what are you complaining about? (laughs) Look, we have work to do. When we get to Alexandretta we will face three challenges. (he reads from the Diary) "First, the breath of God. Only the penitent man will pass. Second, the Word of God, only in the footsteps of God will he proceed. Third, the Path of God, only in the leap from the lion's head will he prove his worth."
+
+	INDY : What does that mean?
+
+	HENRY : (laughs) I don't know. We'll find out.
+
+	INDY : They're turning around. They're taking us back to Germany.
+***************
+
+	INDY : Well, I thought it would take them a lot longer to figure out the radio was dead. Come on, Dad. Move!
+
+	INDY : Come on, Dad. Come on!
+
+	HENRY : (with delight) I didn't know you could fly a plane.
+
+	INDY : Fly... yes. Land... no.
+***************
+
+	INDY : Dad, you're gonna have to use the machine gun. Get it ready.
+
+	INDY : (turning; pointing) Eleven o'clock!
+
+	INDY : Dad -- eleven o'clock!!
+
+	HENRY : What happens at eleven o'clock?
+
+	INDY : (frustrated) Twelve -- eleven -- ten. Eleven o'clock. Fire!
+***************
+
+	INDY : Dad, are we hit?!
+
+	HENRY : More or less. (pause) Son, I'm sorry. They got us.
+
+	INDY : Hang on, Dads We're going in!
+***************
+
+	HENRY : (sarcastic) Nice landing.
+
+	INDY : Thanks.
+
+	HENRY : Those people are trying to kill us!
+
+	INDY : I know, Dad!
+
+	HENRY : It's a new experience for me.
+
+	INDY : It happens to me all the time.
+***************
+
+	HENRY : This is intolerable!
+
+	INDY : This could be close.
+***************
+
+	HENRY : Faster, boy -- faster!
+***************
+
+	HENRY : Well, they don't come any closer than that!
+***************
+
+	INDY : Dad, he's coming back.
+***************
+
+	HENRY : I suddenly remembered Charlemagne. "Let my armies be the rocks and the trees and the birds in the sky." (he chuckles)
+***************
+
+	DONOVAN : These pages are taken from Professor Jones' diary, Your Highness. And they include a map that pinpoints the exact location of the Grail.
+
+	DONOVAN : As you can see, the Grail is all but in our hands. (beat) However, Your Highness, we would not think of crossing your soil without your permission, nor of removing the Grail from your borders without suitable compensation.
+
+	SULTAN : What have you brought?
+
+	VOGEL : Bring den Schatz!
+
+	DONOVAN : Precious valuables, Your Highness, "donated" by some of the finest families in all of Germany.
+
+	SULTAN : Rolls-Royce Phantom Two. 4.3 litre, 30 horsepower, six cylinder engine, with Stromberg Downdraft carburetor.
+
+	SULTAN : Can go from zero to 100 kilometres an hour in 12.5 seconds. And I even like the color.
+
+	DONOVAN : (after a beat) The keys are in the ignition, Your Highness.
+
+	SULTAN : You shall have camels, horses, an armed escort, provisions, desert vehicles -- and tanks!
+
+	DONOVAN : You're welcome.
+
+	ELSA : We have no time to lose. Indiana Jones and his father have escaped.
+
+	SALLAH : We go this way.
+
+	SALLAH : Get that camel out of the way!
+
+	INDY : What happened to Marcus, Sallah?
+
+	SALLAH : (overlapping) Ah, they set out across the desert this afternoon. I believe they took Mister Brody with them.
+
+	HENRY : Now they have the map! And in this sort of race, there's no silver medal for finishing second.
+***************
+
+	DONOVAN : Care to wet your whistle, Marcus?
+
+	BRODY : I'd rather spit in your face. But as I haven't got any spit...
+
+	VOGEL : We must be within three or four miles. Otherwise we are off the map.
+
+	DONOVAN : Well, Marcus, we are on the brink of the recovery of the greatest artifact in the history of mankind.
+
+	BRODY : You're meddling with powers you cannot possibly comprehend.
+
+	INDY : Ah, I see Brody. He seems okay. They've got a tank. Six-pound gun.
+
+	HENRY : What do you think you're doing?! Get down!
+
+	INDY : Dad, we're well out of range.
+
+	SALLAH : That car belonged to my brother-in- law.
+
+	INDY : (gesturing to the others) Come on -- come on!
+
+	VOGEL : I can't see anyone up there.
+
+	DONOVAN : Maybe it wasn't even Jones.
+
+	ELSA : No. It's him all right. He's here somewhere.
+
+	DONOVAN : (to Vogel) Put Brody in the tank.
+
+	DONOVAN : (to Elsa) Well, in this sun, without transportation, they're as good as dead.
+***************
+
+	DONOVAN : It's Jones, all right.
+
+	HENRY : Now, who are all these people?
+
+	INDY : Who cares? As long as they're keeping Donovan busy. Dad, you stay here while Sallah and I organize some transportation.
+***************
+
+	INDY : I'm going after those horses.
+
+	SALLAH : I'll take the camels.
+
+	INDY : I don't need camels.
+
+	SALLAH : But, Indy --
+
+	INDY : No camels!
+
+	DONOVAN : (re: Kazim) Who is he?
+
+	KAZIM : A messenger from God. For the unrighteous, the Cup of Life holds everlasting damnation.
+***************
+
+	HENRY : Marcus!
+
+	BRODY : Arghhh! Oh!
+
+	HENRY : "Genius of the Restoration --"
+
+	BRODY : "-- aid our own resuscitation!"
+
+	BRODY : Henry! What are you doing here?!
+
+	HENRY : It's a rescue, old boy. Come on.
+
+	VOGEL : (re: Henry) Search him.
+
+	VOGEL : (to Henry) What is in this book? That miserable little Diary of yours!
+
+	VOGEL : Here's the map. The book is useless, and yet you come all the way back to Berlin to get it. Why?
+
+	VOGEL : What are you hiding?
+
+	VOGEL : What does the Diary tell you that it doesn't tell us?!
+
+	HENRY : It tells me that goose-stepping morons like yourself should try reading books instead of burning them.
+
+	DONOVAN : Colonel? Jones is getting away.
+
+	VOGEL : (indicating Henry) I think not, Herr Donovan.
+
+	DONOVAN : Not that Jones -- the other Jones!
+
+	NAZI SOLDIER : Herr Colonel!
+
+	INDY : Sallah, I said no camels! That's five camels. Can't you Count?
+
+	SALLAH : Compensation for my brother-in-law's car. Indy, your father and Brody --
+
+	INDY : Where's my father?
+
+	SALLAH : They have them. In the belly of that steel beast.
+
+	VOGEL : Fire!
+***************
+
+	VOGEL : Den Kubelwagon sprengen!
+***************
+
+	NAZI SOLDIER : Keine Bewegung.
+
+	NAZI SOLDIER : Keine Bewegung.
+***************
+
+	INDY : Dad! Dad! Dad!
+
+	HENRY : Junior? Junior? Junior!
+***************
+
+	INDY : Dad!
+
+	INDY : Dad! Dad! Get it!
+***************
+
+	BRODY : Henry, the pen --
+
+	HENRY : What?
+
+	BRODY : But don't you see? The pen is mightier than the sword.
+***************
+
+	BRODY : Look what you did!
+
+	HENRY : It's war.
+
+	HENRY : Didn't I tell you it was a rescue, huh?
+***************
+
+	INDY : Dad?
+
+	HENRY : You call this archaeology?
+
+	INDY : Get out of there, Dad!
+
+	BRODY : How does one get off this thing?
+***************
+
+	HENRY : (to Indy) Where's Marcus?!
+***************
+
+	INDY : Dad!
+
+	INDY : Hang on, Dad!
+
+	SALLAH : Father of Indy -- give me your hand!
+
+	INDY : Sallah! Get Dad!
+
+	SALLAH : Give me your hand!
+***************
+
+	HENRY : Junior?!
+
+	SALLAH : Indy?!
+
+	HENRY : Oh, God. I've lost him. And I never told him anything. I just wasn't ready, Marcus. Five minutes would have been enough.
+***************
+
+	HENRY : I thought I'd lost you, boy.
+
+	INDY : I thought you had too, sir.
+
+	HENRY : Well -- well done! Come on!
+
+	HENRY : Let's go then. why are you sitting there resting when we're so near the end? Come on -- let's go!
+***************
+
+	DONOVAN : The Canyon of the Crescent Moon.
+***************
+
+	DONOVAN : Helmut, another volunteer!
+***************
+
+	ELSA : (to Indy) I never expected to see you again.
+
+	INDY : I'm like a bad penny. I always turn up.
+
+	DONOVAN : Step back now, Doctor Schneider. Give Doctor Jones some room. He's going to recover the Grail for us.
+
+	DONOVAN : Impossible? What do you say, Jones? Ready to go down in history?
+
+	INDY : As what? A Nazi stooge like you?
+
+	DONOVAN : (scornfully) Nazis?! -- Is that the limit of your vision?! The Nazis want to write themselves into the Grail legend and take on the world. Well, they're welcome. But I want the Grail itself. The cup that gives everlasting life. Hitler can have the world, but he can't take it with him. I'm going to be drinking my own health when he's gone the way of the Dodo. (he draws his pistol) The Grail is mine, and you're going to get it for me.
+
+	INDY : Shooting me won't get you anywhere.
+
+	DONOVAN : You know something, Doctor Jones? You're absolutely right.
+
+	INDY : Dad?!
+
+	HENRY : Junior...
+
+	ELSA : No!!
+
+	DONOVAN : (to Elsa) Get back!
+
+	DONOVAN : You can't save him when you're dead.
+
+	DONOVAN : The healing power of the Grail is the only thing that can save your father now. It's time to ask yourself what you believe.
+***************
+
+	INDY : "The Breath of God... Only the penitent man will pass. Only the penitent man will pass..."
+
+	INDY : "The penitent man will pass. The penitent man..."
+
+	HENRY : (in a raspy voice) "Only the penitent man will pass. Only the penitent man will pass."
+
+	INDY : (quietly to himself) The penitent man will pass. The penitent... the penitent. The penitent man...
+
+	HENRY : The penitent man. The penitent...
+
+	INDY : The penitent man is humble before God.
+
+	HENRY : Penitent. Penitent...
+
+	INDY : The penitent man is humble...
+
+	INDY : He kneels before God. (to himself; suddenly) Kneel!!
+***************
+
+	INDY : I'm through!
+
+	DONOVAN : We're through!
+
+	SALLAH : (to Henry) He's all right.
+
+	HENRY : No.
+
+	INDY : "The second challenge is the Word of God. Only in the footsteps of God will he proceed." (to himself) The Word of God... The Word of...
+
+	INDY : "Proceed in the footsteps of the Word."
+
+	HENRY : The Word of God...
+
+	BRODY : No, Henry. Try not to talk.
+
+	HENRY : The Name of God...
+
+	INDY : The Name of God... Jehovah!
+
+	HENRY : But in the Latin alphabet, "Jehovah" begins with an "I".
+***************
+
+	HENRY : Oh dear!
+
+	INDY : In Latin, "Jehovah" starts with an
+
+	INDY : "E"... "H"... "O"... "V"... "A"...
+***************
+
+	INDY : "The path of flood. Only in the leap from the lion's head will he prove his worth."
+
+	INDY : Impossible! Nobody can jump this!
+
+	BRODY : Indy... Indy, you must hurry!! Come quickly!
+
+	INDY : (realizing) It's... a leap of faith. Oh, God.
+
+	HENRY : You must believe, boy. you must... believe.
+***************
+
+	KNIGHT : I knew you'd come, but my strength has left me.
+
+	INDY : Who are you?
+
+	KNIGHT : The last of three brothers who swore an oath to find the Grail and to guard it.
+
+	INDY : That was seven hundred years ago.
+
+	KNIGHT : A long time to wait.
+
+	KNIGHT : You're strangely dressed... for a knight.
+
+	INDY : I'm not exactly... a knight. What do you mean?
+
+	KNIGHT : I was chosen because I was the bravest and the most worthy. The honor was mine until another came to challenge me to single combat. I pass it to you who vanquished me.
+
+	INDY : (gulp) Listen, I don't have time to explain, but --
+
+	DONOVAN : Which one is it?
+
+	KNIGHT : You must choose. (beat) But choose wisely. For as the True Grail will bring you life -- the False Grail will take it from you.
+
+	DONOVAN : I'm not a historian. I have no idea what it looks like. Which one is it?
+
+	ELSA : Let me choose.
+
+	DONOVAN : Thank you, Doctor.
+
+	DONOVAN : Oh, yes. It's more beautiful than I'd ever imagined. This certainly is the cup of the King of Kings.
+
+	DONOVAN : Eternal life!
+
+	DONOVAN : What... is... happening... to... me...?
+
+	DONOVAN : What... is... happening...?
+
+	KNIGHT : He chose... poorly.
+
+	ELSA : It would not be made out of gold.
+
+	INDY : That's the cup of a carpenter.
+
+	INDY : There's only one way to find out.
+
+	KNIGHT : You have chosen wisely. But the Grail cannot pass beyond the Great Seal. That is the boundary and the price of immortality.
+***************
+
+	SALLAH : Drop your guns. Please.
+
+	INDY : (to Henry) Dad, come on. Get to your feet.
+
+	ELSA : We have got it. Come on.
+
+	INDY : Elsa! Elsa, don't move!
+
+	ELSA : It's ours, Indy. Yours and mine.
+
+	INDY : Elsa, don't cross the Seal. The Knight warned us not to take the Grail from here.
+***************
+
+	HENRY : Junior! Junior!
+
+	INDY : Elsa. Elsa don't. Elsa. Elsa. Give me your other hand, honey. I can't hold you.
+
+	ELSA : I can reach it. I can reach it...
+
+	INDY : Elsa! Give me your hand. Give me your other hand!
+
+	INDY : (horrified) Elsa!!
+
+	HENRY : Junior, give me your other hand! I can't hold on!!
+
+	INDY : I can get it -- I can almost reach it, Dad.
+
+	HENRY : Indiana. Indiana!!
+
+	HENRY : (very calmly) ...let it go...
+
+	INDY : Dad...
+
+	INDY : Please, Dad...
+***************
+
+	HENRY : Elsa never really believed in the Grail. She thought she'd found a prize.
+
+	INDY : What did you find, Dad?
+
+	HENRY : Me?... Illumination.
+
+	HENRY : What did you find, Junior?
+
+	INDY : Junior?! Dad...
+
+	SALLAH : Please... What does it always mean, this... this "Junior?"
+
+	HENRY : That's his name. Henry Jones, Junior.
+
+	INDY : I like Indiana.
+
+	HENRY : We named the dog Indiana.
+
+	BRODY : May we go home now, please?
+
+	SALLAH : (to Indy) The dog!? (laughs) You are named after the dog...
+
+	INDY : (embarrassed) I've got a lot of fond memories of that dog.
+
+	INDY : Ready?
+
+	HENRY : Ready.
+
+	BRODY : Indy! Henry! Follow met I know the way! (to his horse) Haaa!
+
+	HENRY : (to Indy) Got lost in his own museum, huh?
+
+	INDY : Uh-huh.
+
+	HENRY : After you, Junior.
+
+	INDY : Yes, sir! (to his horse) Haaa!
+***************
